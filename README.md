@@ -14,5 +14,6 @@ We hope all parties interested in making patent and IP management easier evaluat
 
 **Current State**
 
-List of Rules - Top rules have been created. 
-Rules Engine - Under development.
+- List of Rules - Top rules have been created. 
+
+- Rules Engine - Under development.
